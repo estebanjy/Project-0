@@ -29,6 +29,7 @@ a{
     font-size: larger;
     outline: none;
     border: 1px solid grey;
+    text-align:center;
 }
 #boton {
     margin: 10px;
