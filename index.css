@@ -7,9 +7,7 @@ body{
     height: 43px;
     margin: 0px;
     color: black;
-    font-size: larger;
     text-align: right;
-    text-shadow: 0 0 2px black;
 }
 a{
     margin: 15px;
@@ -43,8 +41,18 @@ a{
 }
 
 #boton {
-    margin: 10px;
+    margin: 5px;
     height: 35px;
     border-radius: 5px;
     border: 1px solid grey;
 }
+#footer {
+    background-color: beige;
+    position: absolute;
+    display: inline-block;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: black;
+    text-align: center;
+  }
