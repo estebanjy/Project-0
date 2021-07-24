@@ -9,6 +9,7 @@ body{
     color: black;
     font-size: larger;
     text-align: right;
+    text-shadow: 0 0 5px black;
 }
 a{
     margin: 15px;
@@ -18,6 +19,7 @@ a{
     color: chocolate;
     text-align: center;
     font-size: 50px;
+    text-shadow: 0 0 5px black;
 }
 #form {
     text-align: center;
@@ -31,6 +33,15 @@ a{
     border: 1px solid grey;
     text-align:center;
 }
+#campo:hover{
+    border: 1px ;
+    box-shadow: 0 0 5px black;
+}
+#boton:hover{
+    border: 1px ;
+    box-shadow: 0 0 5px black;
+}
+
 #boton {
     margin: 10px;
     height: 30px;
