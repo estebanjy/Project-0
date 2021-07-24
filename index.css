@@ -27,9 +27,11 @@ a{
     height: 30px;
     font-size: larger;
     outline: none;
+    border: 1px solid grey;
 }
 #boton {
     margin: 10px;
     height: 30px;
-    border-radius: 20px;
+    border-radius: 5px;
+    border: 1px solid grey;
 }
