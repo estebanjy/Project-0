@@ -2,10 +2,10 @@ body{
     font-family: Verdana, sans-serif;
 }
 #encabezado {
-    background-color:beige;
+    background-color:;
     width: auto;
     height: 43px;
-    margin: 0px;
+    margin: 10px;
     color: black;
     text-align: right;
 }
@@ -25,7 +25,7 @@ a{
 #campo {
     border-radius: 20px;
     width: 500px;
-    height: 30px;
+    height: 35px;
     font-size: larger;
     outline: none;
     border: 1px solid grey;
